@@ -35,7 +35,7 @@ The project consists of two main directories: `client` and `server`. The `client
 
 To set up the development environment and run the Tic Tac Toe game locally, follow these steps:
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `https://github.com/Kodego-Practical-Exam/ReactJS-NodeJS-practicalExam-Answer.git`
 2. Install dependencies for the client: `cd tic-tac-toe/client` and run `npm install`
 3. Install dependencies for the server: `cd ../server` and run `npm install`
 4. Start the server: `npm start` in the `server` directory, and should run in port `3001`
